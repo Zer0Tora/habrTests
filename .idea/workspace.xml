@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="479a74b7-6193-474c-8b47-59f00c0f7ea0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/browsers.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/habrtests/MainPageTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="479a74b7-6193-474c-8b47-59f00c0f7ea0" name="Changes" comment="Добавлены тесты на проверку заголовка статьи и заглушки пустой выдачи поиска" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +40,7 @@
   "keyToString": {
     "JUnit.MainPageTest.executor": "Run",
     "JUnit.MainPageTest.headerTransitTest.executor": "Debug",
-    "JUnit.MainPageTest.langSettingsTest.executor": "Debug",
+    "JUnit.MainPageTest.langSettingsTest.executor": "Run",
     "JUnit.MainPageTest.search.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -144,30 +132,22 @@
       <option name="presentableId" value="Default" />
       <updated>1728034790497</updated>
     </task>
+    <task id="LOCAL-00001" summary="Добавлены тесты на проверку заголовка статьи и заглушки пустой выдачи поиска">
+      <option name="closed" value="true" />
+      <created>1728048987216</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728048987216</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/org/example/habrtests/MainPageTest.java</url>
-          <line>60</line>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/org/example/habrtests/MainPageTest.java</url>
-          <line>53</line>
-          <option name="timeStamp" value="39" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/org/example/habrtests/MainPageTest.java</url>
-          <line>56</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Добавлены тесты на проверку заголовка статьи и заглушки пустой выдачи поиска" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлены тесты на проверку заголовка статьи и заглушки пустой выдачи поиска" />
   </component>
 </project>
